@@ -1,7 +1,7 @@
 <template>
   <div id="wh-projects-blocks">
     <!-- <h1>项目橱窗显示</h1> -->
-    <div id="APPthumbnails">
+    <div id="APPthumbnails" @mouseover.self="curIndex=0">
       <template v-for="p,index in projects">
         <div class="TBS one" v-if="index==0">
           <div class="dashed">
