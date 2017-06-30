@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="9px" viewBox="0 0 13 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>el-icon-check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Basic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-366.000000, -86.000000)" fill="#FFFFFF">
+            <path d="M371.000175,95 C370.743873,95 370.488584,94.902141 370.293064,94.7074319 L366.292519,90.7073198 C365.902494,90.3168927 365.902494,89.6833315 366.292519,89.2929044 C366.683557,88.9024773 367.316715,88.9024773 367.706741,89.2929044 L371.000175,92.5858088 L377.293259,86.293577 C377.683285,85.902141 378.316443,85.902141 378.707481,86.293577 C379.097506,86.684004 379.097506,87.3165564 378.707481,87.7069835 L371.707286,94.7074319 C371.511767,94.902141 371.255465,95 371.000175,95 L371.000175,95 Z" id="el-icon-check"></path>
+        </g>
+    </g>
+</svg>
